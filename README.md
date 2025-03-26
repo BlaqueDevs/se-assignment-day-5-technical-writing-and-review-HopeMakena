@@ -13,7 +13,7 @@
   Regular folks
 - ecourage questions and feedback: foster an interactive environment where people feel comfortable asking questions and sharing their thoughts.
 - use visuals: incorporate images, diagrams and videos to illustrate concepts.
-- avoid technical jargon: use simple, everyday language and aviod acronyms.
+- avoid technical jargon: use simple, everyday language.
    
 ## 2. What are some strategies to tailor your content to different audience types?
 - Language: use language that resonates with audience segment, avoiding jargon or overly technical terms that may confuse them.
