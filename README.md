@@ -8,7 +8,7 @@
   Tech expert
   - focus on detailes and complexities: intricate concepts and technical specification.
   - engage in discussion and debates: encourage critical thinking and open dialogue.
-  - present data and analysis: use charts, graphs and statistical data to support your points.
+  - present data and analysis: use charts, graphs and statistical data to support points.
     
   Regular folks
 - ecourage questions and feedback: foster an interactive environment where people feel comfortable asking questions and sharing their thoughts.
